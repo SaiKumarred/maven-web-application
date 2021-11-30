@@ -97,14 +97,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>sai kumar releases</name>
-	      <url>http://http://3.110.88.85:8081/repository/wallmart-releases///</url>
+	      <name>wallmart-releases</name>
+	      <url>http://3.110.88.85:8081/repository/wallmart-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>sai kumar snapshot</name>
-	      <url>http://http://http://3.110.88.85:8081/repository/wallmart-snapshot//</url>
+	      <name>wallmart-snapshot</name>
+	      <url>http://3.110.88.85:8081/repository/wallmart-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
